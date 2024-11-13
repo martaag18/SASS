@@ -1,0 +1,16 @@
+//PUEDO INCLUIR UN FICHERO DE SASS DENTRO DE OTRO. PUEDO TENER MUCHOS FICHEROS
+//UTILIZAMOS ANIDACION
+
+.caja {
+
+    //Dentro de caja puedo anidar otras reglas
+    h2 {
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    p {
+        text-decoration: underline;
+    }
+
+}
